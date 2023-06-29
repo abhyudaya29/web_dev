@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+*{
+    background-color: wheat
+}
+
+
+#p1{
+    background-color: violet; 
+    /* id are accessed by # */
+    /* id are unique */
+}
+
+
+.paraclass{
+    background-color: green; 
+    /* classes are accessed by .  */
+    /* classes can be accessed multiple */
+}
